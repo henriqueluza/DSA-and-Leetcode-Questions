@@ -24,7 +24,10 @@ Cada problema deve seguir este padrão:
 Exemplo de arquivo: `python/two_sum.py` ou `pandas/groupby_example.ipynb`
 
 ## Como usar
-1. Clone o repositório:2. Para executar scripts Python:3. Para rodar testes (se houver):4. Para testar queries SQL, use seu SGBD preferido ou `sqlite3` para arquivos `.sql`.
+1. Clone o repositório:
+2. Para executar scripts Python:
+3. Para rodar testes (se houver):
+4. Para testar queries SQL, use seu SGBD preferido ou `sqlite3` para arquivos `.sql`.
 
 ## Contribuição
 - Abra uma _issue_ antes de implementar mudanças maiores.
